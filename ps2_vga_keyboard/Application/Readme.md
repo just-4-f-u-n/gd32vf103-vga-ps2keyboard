@@ -26,3 +26,12 @@ GREEN->PA7
 
 
 # ...........updating..............
+this is not the latest version
+
+still working on  support of lua and basic language  maybe a gui for it 
+https://blog.csdn.net/Adancurusul/article/details/105764387
+my blog is here
+
+chen.yuheng@nexuslink.cn
+
+
